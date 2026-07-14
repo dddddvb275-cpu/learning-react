@@ -1,16 +1,19 @@
-# React + Vite
+Hakkında
+Bu proje, React öğrenme sürecimin bir parçası olarak geliştirdiğim, film verilerini listelemeyi ve detaylarını görmeyi sağlayan bir web uygulamasıdır.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Yazılımcı Günlüğü: Öğrenme Sürecim
+Yaklaşık 6 ay önce HTML ile başladığım bu yolculukta, telefonumdaki kısıtlı imkanlardan (Acode, Replit) bugün profesyonel bir geliştirme ortamına (VS Code) geçiş yaptım. Yazılım dünyasında API kavramının önemini keşfettim ve DOM yönetimindeki karmaşayı çözmek için React ile tanıştım. React'in Facebook tarafından, arayüz geliştirmedeki zorlukları aşmak için ortaya çıkarıldığını öğrendiğimde, bu zorlu yola girmeye karar verdim.
 
-Currently, two official plugins are available:
+Bugün Öğrendiklerim
+API İletişimi: fetch ve GET istekleri, API Key yönetimi, güvenlik, header ve body kavramları.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+React Gücü: { } süslü parantezleri ile dinamik JavaScript kullanımı ve React yapısının sağladığı kolaylıklar.
 
-## React Compiler
+Modern Araçlar: react-router-dom ile navigasyon, Query Client ve useQuery ile API verisi çekme yönetimi, useParams ile dinamik rota kullanımı.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Hedeflerim
+Projeye daha fazla içerik ve özellik eklemek.
 
-## Expanding the ESLint configuration
+"Daha az kod ile daha stabil çalışma" prensibiyle projeyi optimize etmek.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+UI/UX tarafında daha profesyonel ve responsive dokunuşlar yapmak.
